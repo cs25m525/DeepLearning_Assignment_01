@@ -1,0 +1,10 @@
+{"time":"2026-10-27T18:08:30.551362113Z","level":"INFO","msg":"runsync: getting info","sync_path":"offline-run-20261027_171204-awkjh7jh/run-awkjh7jh.wandb"}
+{"time":"2026-10-27T18:08:30.5575161Z","level":"INFO","msg":"sender: started","sync_path":"offline-run-20261027_171204-awkjh7jh/run-awkjh7jh.wandb"}
+{"time":"2026-10-27T18:08:30.557557892Z","level":"INFO","msg":"runsync: starting to read","sync_path":"offline-run-20261027_171204-awkjh7jh/run-awkjh7jh.wandb"}
+{"time":"2026-10-27T18:08:39.162602864Z","level":"INFO","msg":"filestream: sending request","sync_path":"offline-run-20261027_171204-awkjh7jh/run-awkjh7jh.wandb","total_files":0,"uploaded_len":1}
+{"time":"2026-10-27T18:08:39.476316118Z","level":"INFO","msg":"filestream: request sent","sync_path":"offline-run-20261027_171204-awkjh7jh/run-awkjh7jh.wandb","status":"200 OK"}
+{"time":"2026-10-27T18:08:54.163433976Z","level":"INFO","msg":"filestream: sending request","sync_path":"offline-run-20261027_171204-awkjh7jh/run-awkjh7jh.wandb","total_files":0,"uploaded_len":1}
+{"time":"2026-10-27T18:08:54.438749013Z","level":"INFO","msg":"filestream: request sent","sync_path":"offline-run-20261027_171204-awkjh7jh/run-awkjh7jh.wandb","status":"200 OK"}
+{"time":"2026-10-27T18:09:22.094972058Z","level":"WARN","msg":"runsync: no exit record encountered, using exit code 1 (failed)","sync_path":"offline-run-20261027_171204-awkjh7jh/run-awkjh7jh.wandb"}
+{"time":"2026-10-27T18:09:22.095140184Z","level":"INFO","msg":"sender: closed","sync_path":"offline-run-20261027_171204-awkjh7jh/run-awkjh7jh.wandb"}
+{"time":"2026-10-27T18:09:22.095168326Z","level":"ERROR","msg":"context canceled\ncontext canceled"}

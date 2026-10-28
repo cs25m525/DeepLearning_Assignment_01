@@ -1,0 +1,50 @@
+{"time":"2026-10-28T00:35:17.4285846+05:30","level":"INFO","msg":"runsync: getting info","sync_path":"offline-run-20261027_173515-8zt0js93\\run-8zt0js93.wandb"}
+{"time":"2026-10-28T00:35:17.4325873+05:30","level":"INFO","msg":"runsync: getting info","sync_path":"offline-run-20261027_171952-9s1m2bc8\\run-9s1m2bc8.wandb"}
+{"time":"2026-10-28T00:35:17.4337937+05:30","level":"INFO","msg":"runsync: getting info","sync_path":"offline-run-20261027_181738-fr7fy4sd\\run-fr7fy4sd.wandb"}
+{"time":"2026-10-28T00:35:17.4349152+05:30","level":"INFO","msg":"runsync: getting info","sync_path":"offline-run-20261027_175430-p4pdeax0\\run-p4pdeax0.wandb"}
+{"time":"2026-10-28T00:35:17.4365394+05:30","level":"INFO","msg":"runsync: getting info","sync_path":"offline-run-20261027_171204-awkjh7jh\\run-awkjh7jh.wandb"}
+{"time":"2026-10-28T00:35:17.4371858+05:30","level":"INFO","msg":"sender: started","sync_path":"offline-run-20261027_171952-9s1m2bc8\\run-9s1m2bc8.wandb"}
+{"time":"2026-10-28T00:35:17.4377229+05:30","level":"INFO","msg":"sender: started","sync_path":"offline-run-20261027_173515-8zt0js93\\run-8zt0js93.wandb"}
+{"time":"2026-10-28T00:35:17.4377229+05:30","level":"INFO","msg":"runsync: starting to read","sync_path":"offline-run-20261027_171204-awkjh7jh\\run-awkjh7jh.wandb"}
+{"time":"2026-10-28T00:35:17.4377229+05:30","level":"INFO","msg":"runsync: starting to read","sync_path":"offline-run-20261027_171952-9s1m2bc8\\run-9s1m2bc8.wandb"}
+{"time":"2026-10-28T00:35:17.4377229+05:30","level":"INFO","msg":"sender: started","sync_path":"offline-run-20261027_175430-p4pdeax0\\run-p4pdeax0.wandb"}
+{"time":"2026-10-28T00:35:17.4377229+05:30","level":"INFO","msg":"runsync: starting to read","sync_path":"offline-run-20261027_175430-p4pdeax0\\run-p4pdeax0.wandb"}
+{"time":"2026-10-28T00:35:17.4377229+05:30","level":"INFO","msg":"runsync: starting to read","sync_path":"offline-run-20261027_173515-8zt0js93\\run-8zt0js93.wandb"}
+{"time":"2026-10-28T00:35:17.4377229+05:30","level":"INFO","msg":"sender: started","sync_path":"offline-run-20261027_171204-awkjh7jh\\run-awkjh7jh.wandb"}
+{"time":"2026-10-28T00:35:17.4405677+05:30","level":"INFO","msg":"runsync: starting to read","sync_path":"offline-run-20261027_181738-fr7fy4sd\\run-fr7fy4sd.wandb"}
+{"time":"2026-10-28T00:35:17.4405677+05:30","level":"INFO","msg":"sender: started","sync_path":"offline-run-20261027_181738-fr7fy4sd\\run-fr7fy4sd.wandb"}
+{"time":"2026-10-28T00:35:18.1426937+05:30","level":"INFO","msg":"filestream: sending request","sync_path":"offline-run-20261027_171204-awkjh7jh\\run-awkjh7jh.wandb","total_files":1,"events_offset":0,"events_lines":2}
+{"time":"2026-10-28T00:35:18.1469406+05:30","level":"INFO","msg":"filestream: sending request","sync_path":"offline-run-20261027_175430-p4pdeax0\\run-p4pdeax0.wandb","total_files":1,"events_offset":0,"events_lines":1}
+{"time":"2026-10-28T00:35:18.1855408+05:30","level":"INFO","msg":"filestream: sending request","sync_path":"offline-run-20261027_173515-8zt0js93\\run-8zt0js93.wandb","total_files":1,"events_offset":0,"events_lines":2}
+{"time":"2026-10-28T00:35:18.7016341+05:30","level":"INFO","msg":"filestream: request sent","sync_path":"offline-run-20261027_171204-awkjh7jh\\run-awkjh7jh.wandb","status":"200 OK"}
+{"time":"2026-10-28T00:35:18.9839605+05:30","level":"INFO","msg":"filestream: sending request","sync_path":"offline-run-20261027_181738-fr7fy4sd\\run-fr7fy4sd.wandb","total_files":1,"events_offset":0,"events_lines":2}
+{"time":"2026-10-28T00:35:18.9876842+05:30","level":"INFO","msg":"filestream: sending request","sync_path":"offline-run-20261027_171952-9s1m2bc8\\run-9s1m2bc8.wandb","total_files":1,"events_offset":0,"events_lines":1}
+{"time":"2026-10-28T00:35:19.5651687+05:30","level":"INFO","msg":"filestream: request sent","sync_path":"offline-run-20261027_175430-p4pdeax0\\run-p4pdeax0.wandb","status":"200 OK"}
+{"time":"2026-10-28T00:35:19.6508287+05:30","level":"INFO","msg":"filestream: request sent","sync_path":"offline-run-20261027_173515-8zt0js93\\run-8zt0js93.wandb","status":"200 OK"}
+{"time":"2026-10-28T00:35:20.5073256+05:30","level":"INFO","msg":"filestream: request sent","sync_path":"offline-run-20261027_181738-fr7fy4sd\\run-fr7fy4sd.wandb","status":"200 OK"}
+{"time":"2026-10-28T00:35:20.5073256+05:30","level":"INFO","msg":"filestream: request sent","sync_path":"offline-run-20261027_171952-9s1m2bc8\\run-9s1m2bc8.wandb","status":"200 OK"}
+{"time":"2026-10-28T00:35:21.8003076+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed","sync_path":"offline-run-20261027_175430-p4pdeax0\\run-p4pdeax0.wandb"}
+{"time":"2026-10-28T00:35:21.8016629+05:30","level":"INFO","msg":"filestream: sending request","sync_path":"offline-run-20261027_175430-p4pdeax0\\run-p4pdeax0.wandb","total_files":4,"history_offset":0,"history_lines":60,"events_offset":1,"events_lines":181,"console_offset":0,"console_lines":183,"uploaded_len":5,"complete":true,"exit_code":0}
+{"time":"2026-10-28T00:35:21.8390395+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed","sync_path":"offline-run-20261027_173515-8zt0js93\\run-8zt0js93.wandb"}
+{"time":"2026-10-28T00:35:21.8390395+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed","sync_path":"offline-run-20261027_171204-awkjh7jh\\run-awkjh7jh.wandb"}
+{"time":"2026-10-28T00:35:21.8390395+05:30","level":"INFO","msg":"filestream: sending request","sync_path":"offline-run-20261027_171204-awkjh7jh\\run-awkjh7jh.wandb","total_files":4,"history_offset":0,"history_lines":20,"events_offset":2,"events_lines":58,"console_offset":0,"console_lines":63,"uploaded_len":5,"complete":true,"exit_code":0}
+{"time":"2026-10-28T00:35:21.8398307+05:30","level":"INFO","msg":"filestream: sending request","sync_path":"offline-run-20261027_173515-8zt0js93\\run-8zt0js93.wandb","total_files":4,"history_offset":0,"history_lines":50,"events_offset":2,"events_lines":150,"console_offset":0,"console_lines":153,"uploaded_len":5,"complete":true,"exit_code":0}
+{"time":"2026-10-28T00:35:22.4109841+05:30","level":"INFO","msg":"filestream: request sent","sync_path":"offline-run-20261027_171204-awkjh7jh\\run-awkjh7jh.wandb","status":"200 OK"}
+{"time":"2026-10-28T00:35:22.4109841+05:30","level":"INFO","msg":"runsync: done reading","sync_path":"offline-run-20261027_171204-awkjh7jh\\run-awkjh7jh.wandb"}
+{"time":"2026-10-28T00:35:22.4109841+05:30","level":"INFO","msg":"sender: closed","sync_path":"offline-run-20261027_171204-awkjh7jh\\run-awkjh7jh.wandb"}
+{"time":"2026-10-28T00:35:22.5755612+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed","sync_path":"offline-run-20261027_181738-fr7fy4sd\\run-fr7fy4sd.wandb"}
+{"time":"2026-10-28T00:35:22.5776711+05:30","level":"INFO","msg":"filestream: sending request","sync_path":"offline-run-20261027_181738-fr7fy4sd\\run-fr7fy4sd.wandb","total_files":4,"history_offset":0,"history_lines":100,"events_offset":2,"events_lines":302,"console_offset":0,"console_lines":303,"uploaded_len":5,"complete":true,"exit_code":0}
+{"time":"2026-10-28T00:35:22.7620349+05:30","level":"INFO","msg":"filestream: request sent","sync_path":"offline-run-20261027_175430-p4pdeax0\\run-p4pdeax0.wandb","status":"200 OK"}
+{"time":"2026-10-28T00:35:22.7677014+05:30","level":"INFO","msg":"runsync: done reading","sync_path":"offline-run-20261027_175430-p4pdeax0\\run-p4pdeax0.wandb"}
+{"time":"2026-10-28T00:35:22.7677014+05:30","level":"INFO","msg":"sender: closed","sync_path":"offline-run-20261027_175430-p4pdeax0\\run-p4pdeax0.wandb"}
+{"time":"2026-10-28T00:35:22.7955938+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed","sync_path":"offline-run-20261027_171952-9s1m2bc8\\run-9s1m2bc8.wandb"}
+{"time":"2026-10-28T00:35:22.7961001+05:30","level":"INFO","msg":"filestream: sending request","sync_path":"offline-run-20261027_171952-9s1m2bc8\\run-9s1m2bc8.wandb","total_files":4,"history_offset":0,"history_lines":40,"events_offset":1,"events_lines":119,"console_offset":0,"console_lines":123,"uploaded_len":5,"complete":true,"exit_code":0}
+{"time":"2026-10-28T00:35:23.613856+05:30","level":"INFO","msg":"filestream: request sent","sync_path":"offline-run-20261027_173515-8zt0js93\\run-8zt0js93.wandb","status":"200 OK"}
+{"time":"2026-10-28T00:35:23.613856+05:30","level":"INFO","msg":"runsync: done reading","sync_path":"offline-run-20261027_173515-8zt0js93\\run-8zt0js93.wandb"}
+{"time":"2026-10-28T00:35:23.613856+05:30","level":"INFO","msg":"sender: closed","sync_path":"offline-run-20261027_173515-8zt0js93\\run-8zt0js93.wandb"}
+{"time":"2026-10-28T00:35:23.6906463+05:30","level":"INFO","msg":"filestream: request sent","sync_path":"offline-run-20261027_181738-fr7fy4sd\\run-fr7fy4sd.wandb","status":"200 OK"}
+{"time":"2026-10-28T00:35:23.6906463+05:30","level":"INFO","msg":"runsync: done reading","sync_path":"offline-run-20261027_181738-fr7fy4sd\\run-fr7fy4sd.wandb"}
+{"time":"2026-10-28T00:35:23.6906463+05:30","level":"INFO","msg":"sender: closed","sync_path":"offline-run-20261027_181738-fr7fy4sd\\run-fr7fy4sd.wandb"}
+{"time":"2026-10-28T00:35:24.5703878+05:30","level":"INFO","msg":"filestream: request sent","sync_path":"offline-run-20261027_171952-9s1m2bc8\\run-9s1m2bc8.wandb","status":"200 OK"}
+{"time":"2026-10-28T00:35:24.5703878+05:30","level":"INFO","msg":"runsync: done reading","sync_path":"offline-run-20261027_171952-9s1m2bc8\\run-9s1m2bc8.wandb"}
+{"time":"2026-10-28T00:35:24.5703878+05:30","level":"INFO","msg":"sender: closed","sync_path":"offline-run-20261027_171952-9s1m2bc8\\run-9s1m2bc8.wandb"}
