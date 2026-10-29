@@ -1,0 +1,1 @@
+{"_wandb":{"runtime":0},"train_loss":0.229771157,"activation":"GELU","epochs":50,"lr":0.001,"_timestamp":1.7932936580448322e+09,"_runtime":0,"optimizer":"Nesterov-SGD","val_acc":83.88,"momentum":0.9,"Created":"2026-10-21T04:17:12.000Z","_step":0,"Name":"act_GELU_bs_32_opt_Nesterov-SGD_lr_0.001_epoch_51","train_acc":91.83,"seed":22,"val_loss":0.540937015}

@@ -1,0 +1,1 @@
+{"activation":"Sigmoid","val_acc":80.75,"epochs":50,"momentum":0.9,"_step":0,"_wandb":{"runtime":0},"_timestamp":1.793293587999133e+09,"seed":22,"Name":"act_Sigmoid_bs_32_opt_Adam_lr_0.001_epoch_51","lr":0.001,"optimizer":"Adam","Created":"2026-10-19T08:50:40.000Z","_runtime":0,"val_loss":0.693127518,"train_acc":92.314,"train_loss":0.21862926}

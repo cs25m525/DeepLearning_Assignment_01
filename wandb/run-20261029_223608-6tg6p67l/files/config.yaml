@@ -1,0 +1,33 @@
+_wandb:
+    value:
+        cli_version: 0.31.0
+        e:
+            01a188a0-4afa-73b0-96e9-d20afe35595f:
+                codePath: testModel.py
+                codePathLocal: testModel.py
+                email: cs25m525@smail.iitm.ac.in
+                executable: C:\Users\prate\AppData\Local\Programs\Python\Python311\python.exe
+                git:
+                    commit: d1c0fea42a64c8152efcde1ca38baaa3c56a8114
+                    remote: https://github.com/cs25m525/DeepLearning_Assignment_01.git
+                host: Prateek
+                os: Windows-10-10.0.26300-SP0
+                program: C:\Dir\IITM-M.Tech\DeepLearning\GitHub\DeepLearning_Assignment_01\testModel.py
+                python: CPython 3.11.4
+                root: C:\Dir\IITM-M.Tech\DeepLearning\GitHub\DeepLearning_Assignment_01
+                startedAt: "2026-10-29T17:06:08.751839Z"
+                writerId: 01a188a0-4afa-73b0-96e9-d20afe35595f
+        m: []
+        python_version: 3.11.4
+        t:
+            "3":
+                - 2
+                - 13
+            "4": 3.11.4
+            "5": 0.31.0
+            "8":
+                - 3
+            "10":
+                - 20
+            "12": 0.31.0
+            "13": windows-amd64

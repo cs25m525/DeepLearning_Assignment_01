@@ -1,0 +1,1 @@
+{"lr":0.001,"val_acc":70.67,"train_acc":67.868,"activation":"Tanh","optimizer":"NAdam","_timestamp":1.7932934993357313e+09,"epochs":50,"momentum":0.9,"_wandb":{"runtime":0},"Name":"act_Tanh_bs_32_opt_NAdam_lr_0.001_epoch_51","_runtime":0,"seed":22,"_step":0,"train_loss":0.916828366,"val_loss":0.8373183,"Created":"2026-10-21T04:15:30.000Z"}

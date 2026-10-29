@@ -1,0 +1,1 @@
+{"activation":"Sigmoid","optimizer":"Adagrad","_timestamp":1.7932935943680842e+09,"val_acc":42.07,"seed":22,"epochs":50,"_wandb":{"runtime":0},"train_loss":1.692120084,"momentum":0.9,"val_loss":1.61657377,"_runtime":0,"Name":"act_Sigmoid_bs_32_opt_Adagrad_lr_0.001_epoch_51","lr":0.001,"train_acc":38.65,"_step":0,"Created":"2026-10-21T04:25:11.000Z"}

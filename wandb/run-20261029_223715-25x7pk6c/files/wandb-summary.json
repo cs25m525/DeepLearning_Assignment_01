@@ -1,0 +1,1 @@
+{"Created":"2026-10-19T08:08:56.000Z","momentum":0.9,"activation":"Relu","_wandb":{"runtime":0},"epochs":50,"lr":0.001,"_step":0,"_runtime":0,"optimizer":"Adagrad","val_loss":0.811621764,"Name":"act_Relu_bs_32_opt_Adagrad_lr_0.001_epoch_51","val_acc":71.72,"train_acc":69,"_timestamp":1.7932936364127667e+09,"train_loss":0.884588049,"seed":22}

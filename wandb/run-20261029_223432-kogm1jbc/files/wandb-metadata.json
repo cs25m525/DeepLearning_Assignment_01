@@ -1,0 +1,31 @@
+{
+  "os":  "Windows-10-10.0.26300-SP0",
+  "python":  "CPython 3.11.4",
+  "startedAt":  "2026-10-29T17:04:32.659979Z",
+  "program":  "C:\\Dir\\IITM-M.Tech\\DeepLearning\\GitHub\\DeepLearning_Assignment_01\\testModel.py",
+  "codePath":  "testModel.py",
+  "codePathLocal":  "testModel.py",
+  "git":  {
+    "remote":  "https://github.com/cs25m525/DeepLearning_Assignment_01.git",
+    "commit":  "d1c0fea42a64c8152efcde1ca38baaa3c56a8114"
+  },
+  "email":  "cs25m525@smail.iitm.ac.in",
+  "root":  "C:\\Dir\\IITM-M.Tech\\DeepLearning\\GitHub\\DeepLearning_Assignment_01",
+  "host":  "Prateek",
+  "executable":  "C:\\Users\\prate\\AppData\\Local\\Programs\\Python\\Python311\\python.exe",
+  "cpu_count":  2,
+  "cpu_count_logical":  4,
+  "disk":  {
+    "/":  {
+      "total":  "254620463104",
+      "used":  "246535122944"
+    }
+  },
+  "memory":  {
+    "total":  "8215232512"
+  },
+  "cpu":  {
+    "model":  "11th Gen Intel(R) Core(TM) i3-1115G4 @ 3.00GHz"
+  },
+  "writerId":  "01a1889e-d39d-7a29-9e00-1f61c101427e"
+}

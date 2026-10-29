@@ -1,0 +1,1 @@
+{"_step":0,"val_loss":0.898735484,"Created":"2026-10-19T09:45:53.000Z","train_acc":66.536,"epochs":50,"_wandb":{"runtime":0},"train_loss":0.944642423,"_timestamp":1.793293505757069e+09,"optimizer":"Adam","val_acc":68.81,"momentum":0.9,"_runtime":0,"activation":"Tanh","Name":"act_Tanh_bs_32_opt_Adam_lr_0.001_epoch_51","lr":0.001,"seed":22}

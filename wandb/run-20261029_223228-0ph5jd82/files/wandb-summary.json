@@ -1,0 +1,1 @@
+{"_step":29,"Name":"act_GELU_bs_32_opt_Adagrad_lr_0.001_epoch_51","lr":0.001,"val_acc":73.61,"train_acc":72.442,"activation":"GELU","_timestamp":1.7932933497287202e+09,"_runtime":0,"epochs":50,"Created":"2026-10-21T04:17:13.000Z","train_loss":0.786903123,"optimizer":"Adagrad","_wandb":{"runtime":0},"seed":22,"val_loss":0.765839616,"momentum":0.9}

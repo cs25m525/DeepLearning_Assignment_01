@@ -1,0 +1,1 @@
+{"seed":22,"optimizer":"Adagrad","_wandb":{"runtime":0},"train_acc":73.08,"_step":0,"_timestamp":1.7932935125286834e+09,"lr":0.001,"_runtime":0,"epochs":50,"Name":"act_Tanh_bs_32_opt_Adagrad_lr_0.001_epoch_51","Created":"2026-10-19T09:55:12.000Z","val_acc":75.13,"momentum":0.9,"activation":"Tanh","val_loss":0.71440163,"train_loss":0.773377902}

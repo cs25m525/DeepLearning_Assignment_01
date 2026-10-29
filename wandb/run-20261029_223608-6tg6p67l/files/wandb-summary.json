@@ -1,0 +1,1 @@
+{"epochs":50,"val_acc":10,"Name":"act_Sigmoid_bs_32_opt_RMSprop_lr_0.001_epoch_51","activation":"Sigmoid","train_loss":2.302771034,"train_acc":9.6,"Created":"2026-10-21T04:26:26.000Z","val_loss":2.302655003,"optimizer":"RMSprop","lr":0.001,"seed":22,"_step":0,"_wandb":{"runtime":0},"_timestamp":1.7932935698057294e+09,"momentum":0.9,"_runtime":0}
