@@ -1,1 +1,0 @@
-{"Created":"2026-10-19T08:09:18.000Z","_timestamp":1.7932936222121642e+09,"_wandb":{"runtime":0},"optimizer":"NAdam","val_acc":84.41,"Name":"act_Relu_bs_32_opt_NAdam_lr_0.001_epoch_51","_step":0,"train_acc":90.596,"train_loss":0.285120771,"momentum":0.9,"lr":0.001,"val_loss":0.560307031,"activation":"Relu","seed":22,"_runtime":0,"epochs":50}

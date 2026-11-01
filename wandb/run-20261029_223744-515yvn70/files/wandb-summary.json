@@ -1,1 +1,0 @@
-{"activation":"GELU","_runtime":0,"lr":0.001,"_step":0,"val_loss":0.590163819,"train_loss":0.222433162,"train_acc":92.786,"optimizer":"NAdam","epochs":50,"momentum":0.9,"Created":"2026-10-21T04:18:17.000Z","Name":"act_GELU_bs_32_opt_NAdam_lr_0.001_epoch_51","seed":22,"val_acc":84.83,"_timestamp":1.7932936653311882e+09,"_wandb":{"runtime":0}}

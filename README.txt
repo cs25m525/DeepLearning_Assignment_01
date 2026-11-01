@@ -25,10 +25,13 @@ Experiments are conducted using different activation functions, optimizers, lear
 
 5. Random Seed Configuration is SEED = 22
 
-6. Running the Project by command: python main.py
+6. Running the Project by command:
+    Required: main.py, VGG6.py, testModel.py, Images(folder to store images), Models(to store models), cifar-10-batces-py (for cifar10 dataset)
+    To run: python main.py
     Then select appropriate choice of operation to be executed.
-    Choice 1: Put images inside Images folder at same location of main.py and then continue.
-    Choice 2: Select Appropriate Configuration which has to be trained and validated.
-    Choice 3: Exit
+    Choice 1: Evaluate Model For Best Validation Accuracy
+    Choice 2: To try GELU NAdam Model put images inside Images folder(some files are already present) at same location of main.py and then continue.
+    Choice 3: Train Validate and Test Model your choice
+    Choice 4: Exit
 
 7. Dataset: cifar-10-batches-py dataset to be present at same location as of main.py

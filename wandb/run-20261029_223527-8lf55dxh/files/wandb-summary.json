@@ -1,1 +1,0 @@
-{"Name":"act_SiLU_bs_32_opt_RMSprop_lr_0.001_epoch_51","optimizer":"RMSprop","train_acc":88.386,"momentum":0.9,"train_loss":0.363806418,"val_acc":85.18,"_timestamp":1.793293529359228e+09,"epochs":50,"_step":0,"lr":0.001,"_runtime":0,"activation":"SiLU","Created":"2026-10-21T04:17:34.000Z","seed":22,"val_loss":0.537430331,"_wandb":{"runtime":0}}

@@ -1,1 +1,0 @@
-{"seed":22,"_wandb":{"runtime":0},"train_loss":0.23415983,"optimizer":"Adam","Name":"act_SiLU_bs_32_opt_Adam_lr_0.001_epoch_51","train_acc":92.55,"epochs":50,"lr":0.001,"Created":"2026-10-21T04:16:56.000Z","val_acc":85.74,"_runtime":0,"_timestamp":1.793293549716928e+09,"momentum":0.9,"activation":"SiLU","val_loss":0.557243936,"_step":0}

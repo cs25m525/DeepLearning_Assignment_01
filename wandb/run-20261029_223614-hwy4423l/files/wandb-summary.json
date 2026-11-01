@@ -1,1 +1,0 @@
-{"train_acc":9.762,"_wandb":{"runtime":0},"_step":0,"activation":"Sigmoid","lr":0.001,"val_acc":10,"Name":"act_Sigmoid_bs_32_opt_Nesterov-SGD_lr_0.001_epoch_51","Created":"2026-10-19T08:50:10.000Z","val_loss":2.30347158,"epochs":50,"seed":22,"optimizer":"Nesterov-SGD","_runtime":0,"momentum":0.9,"_timestamp":1.7932935759588795e+09,"train_loss":2.303855378}

@@ -1,1 +1,0 @@
-{"epochs":50,"momentum":0.9,"lr":0.001,"train_loss":0.267255117,"optimizer":"Nesterov-SGD","_runtime":0,"_wandb":{"runtime":0},"Name":"act_SiLU_bs_32_opt_Nesterov-SGD_lr_0.001_epoch_51","Created":"2026-10-21T04:16:39.000Z","val_loss":0.613298932,"train_acc":90.65,"seed":22,"activation":"SiLU","_timestamp":1.7932935351067572e+09,"val_acc":81.84,"_step":0}

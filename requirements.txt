@@ -1,0 +1,4 @@
+torch==2.4.1
+torchvision==0.19.1
+wandb==0.31.0
+numpy==2.4.6
